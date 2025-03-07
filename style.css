@@ -58,7 +58,7 @@ background: linear-gradient(0deg, #ff8080 0%,   #ffb3b3  100%);
   justify-content: center;
 }
 .btn-1:hover {
-   background: #ff0000;
+   background: #ffb3b3;
 background: linear-gradient(0deg, #ffb3b3 0%,  #ff8080 100%);
 }
 .question{
